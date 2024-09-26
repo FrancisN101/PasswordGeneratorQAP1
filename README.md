@@ -2,8 +2,9 @@
 
 ## Author
 
-** Francis N **  
-_September 26, 2024_
+### Francis N   
+
+#### September 26, 2024
 
 ### A CLI Password Generator 
 
