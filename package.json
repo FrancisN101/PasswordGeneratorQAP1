@@ -1,0 +1,14 @@
+{
+  "name": "passwordgeneratorqap1",
+  "version": "1.0.0",
+  "description": "Password Generator That Runs Via CLI",
+  "main": "PasswordGenerator.js",
+  "bin": {
+    "passgen": "./PasswordGenerator.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": " Francis N",
+  "license": "ISC"
+}
